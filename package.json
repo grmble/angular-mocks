@@ -1,0 +1,26 @@
+{
+  "name": "angular-mocks",
+  "version": "1.2.26",
+  "description": "angular-mocks for nodejs require / browserify",
+  "main": "index.js",
+  "browser": "index-browserify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grmble/angular-mocks.git"
+  },
+  "keywords": [
+    "angular-mocks",
+    "angular",
+    "browserify",
+    "node"
+  ],
+  "author": "Juergen Gmeiner <spamless.juergen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grmble/angular-mocks/issues"
+  },
+  "homepage": "https://github.com/grmble/angular-mocks"
+}
